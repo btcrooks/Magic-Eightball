@@ -1,4 +1,4 @@
-const responses = require('../data/responses');
+const responses = require('../data/responses.json');
 
 const randomResponse = () => {
   const numberOfResponses = responses.length;
